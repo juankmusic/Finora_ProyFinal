@@ -1,0 +1,18 @@
+[
+  {
+    "amount": 1000.0,
+    "type": "Ingreso"
+  },
+  {
+    "amount": 500.0,
+    "type": "Ingreso"
+  },
+  {
+    "amount": 200.0,
+    "type": "Gasto"
+  },
+  {
+    "amount": 150.0,
+    "type": "Gasto"
+  }
+]

@@ -1,0 +1,1 @@
+ERROR: El usuario con email test2@example.com ya existe.

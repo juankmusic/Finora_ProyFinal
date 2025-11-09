@@ -1,0 +1,25 @@
+{
+  "period": "monthly",
+  "recent_transactions": [
+    {
+      "amount": 500.0,
+      "category_name": "Sin Categor\u00eda",
+      "date": "2025-11-09T21:02:33.399476",
+      "description": "Arriendo",
+      "type": "Gasto"
+    },
+    {
+      "amount": 2000.0,
+      "category_name": "Sin Categor\u00eda",
+      "date": "2025-11-09T21:02:33.397286",
+      "description": "Sueldo",
+      "type": "Ingreso"
+    }
+  ],
+  "summary": {
+    "consolidated_balance": 1500.0,
+    "total_expense": 500.0,
+    "total_income": 2000.0
+  },
+  "user_id": 1
+}

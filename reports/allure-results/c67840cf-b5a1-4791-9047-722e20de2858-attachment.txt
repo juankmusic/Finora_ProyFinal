@@ -1,0 +1,1 @@
+{"goal_id":1,"is_completed":false,"message":"Contribuci\u00f3n registrada.","new_current_amount":250.0}

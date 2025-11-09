@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2,
+    "is_custom": false,
+    "name": "Comida",
+    "type": "Gasto"
+  },
+  {
+    "id": 3,
+    "is_custom": false,
+    "name": "Transporte",
+    "type": "Gasto"
+  },
+  {
+    "id": 4,
+    "is_custom": true,
+    "name": "Ropa Nueva",
+    "type": "Gasto"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "user_id": 1,
+  "amount": 500.0,
+  "type": "Ingreso",
+  "description": "Salario mensual"
+}

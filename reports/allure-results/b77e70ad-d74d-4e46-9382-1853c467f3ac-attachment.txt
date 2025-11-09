@@ -1,0 +1,1 @@
+{"message":"El monto objetivo debe ser positivo."}

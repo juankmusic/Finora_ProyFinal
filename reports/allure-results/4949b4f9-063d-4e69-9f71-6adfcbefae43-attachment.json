@@ -1,0 +1,6 @@
+{
+  "user_id": 1,
+  "amount": 50.5,
+  "type": "Gasto",
+  "description": "Compra en supermercado"
+}

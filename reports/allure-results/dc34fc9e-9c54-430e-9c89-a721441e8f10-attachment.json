@@ -1,0 +1,6 @@
+{
+  "user_id": 1,
+  "amount": -100.0,
+  "type": "Ingreso",
+  "description": "Monto negativo"
+}

@@ -1,0 +1,1 @@
+{"id":4,"message":"Categor\u00eda personalizada creada.","name":"Cafeter\u00eda"}
